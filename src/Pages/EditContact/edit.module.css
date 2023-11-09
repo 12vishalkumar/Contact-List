@@ -1,0 +1,57 @@
+/*----------------------------- Edit ----------------------------*/
+.container {
+  width: 500px;
+  margin: 0px auto;
+  padding: 20px;
+}
+
+form {
+  background-color: #6d706f;
+  padding: 20px;
+  padding-top: 50px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  margin-left: 8%;
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 60px;
+  font-weight: 900;
+}
+
+input {
+  width: 95%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin-top: 20px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.save_btn {
+  background-color: #0c23f0;
+  margin-right: 10px;
+}
+
+.cnl_btn {
+  background-color: #ff6f69;
+}
+
+.save_btn:hover {
+  background-color: #169c57;
+}
+
+.cnl_btn:hover {
+  background-color: #ff958c;
+}

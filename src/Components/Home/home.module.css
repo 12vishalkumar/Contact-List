@@ -1,0 +1,64 @@
+/*----------------------------------- Home -----------------------------*/
+.container {
+  margin: 20px;
+}
+
+table {
+  width: 85%;
+  margin: auto;
+  border-collapse: collapse;
+  background-color: #bfbfc5;
+  color: #333;
+}
+
+.table_head {
+  background-color: #555;
+  color: #fff;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+td {
+  padding: 15px 10px;
+}
+
+th {
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #cccfcf;
+}
+
+.edit_btn,
+.dlt_btn {
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 16px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: auto;
+  border: none;
+}
+
+.dlt_btn {
+  background-color: #ff6f69;
+}
+
+.edit_btn {
+  background-color: #0b08c4;
+}
+
+.dlt_btn:hover {
+  background-color: #ff958c;
+}
+
+.edit_btn:hover {
+  background-color: #0ba756;
+}
