@@ -1,6 +1,12 @@
 # Contact List
 ✍ A contact list is a collection of organized contact information, such as names, phone numbers, and email addresses, used for quick and easy access to connect with individuals, both for personal and professional purposes. Here, In contactList is a web application for managing a contact list. It allows users to create, view, edit, and delete contacts.
 
+### Click the Go Live button and see the live👉 [Go Live]()
+
+## Installation
+- Install the required dependencies using npm install.
+- Start the server using npm start.
+
 ## Folder Structure
    - ### public
    - ### src
@@ -40,11 +46,11 @@
 
 ## Screenshorts
    - ### Contact List Page
-      - ![Contact List](./src/image/Contact%20list%20page.png)
+      - ![Contact-List](./src/images/Contact%20list%20page.png)
    - ### Contact Addtion Page
-      - ![Adtion Page](./src/image/Add%20page.png)
+      - ![Adtion-Page](./src/images/Add%20page.png)
    - ### Contact Edition Page
-      - ![Edition Page](./src/image/Edit%20page.png)
+      - ![Edition-Page](./src/images/Edit%20page.png)
     
 
 ## Getting Started with Create React App
